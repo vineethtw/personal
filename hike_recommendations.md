@@ -70,8 +70,8 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
     Short, but not easy. It's a black route, and it was one of the most difficult hikes I did at that time.
 But do it for the views, they are out of the world. And you get to sit at the pointy tip of a the mountain.
 
-    Tag: Scrambling, Exposed Sections near the Summit, Pyramidal Mountain, Descent can be dangerous
-    Refreshments / Huts: No
+   __Tag__: Scrambling, Exposed Sections near the Summit, Pyramidal Mountain, Descent can be dangerous
+   __Refreshments / Huts__: No
 
 2. __Roßstein__
 
