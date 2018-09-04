@@ -36,11 +36,12 @@ It's next to Walchensee, if that is a point in it's favor. If you're new to hiki
 
     This was my first mountain that I tried climbing in Germany. It took me three tries to get to the summit, mostly due to inexperience, and getting lost the first time.
     
-    __Tip__: You will reach a point in the route where you'll have to choose "Winterweg" or "Sommerweg" : my recommendation is to choose the "Winterweg", and look behind you time to time, where you'll be treated to Lake Tegernsee in all her beauty. 
+    __Tip__: There is a point in the route where you'll have to choose "Winterweg" or "Sommerweg" : my recommendation is to choose the "Winterweg", and look behind time to time, where one will be treated to Lake Tegernsee in all her beauty. 
     
     __Time of year__: The first time, it was late fall, the second time sometime in November, and the third, sometime in January. I loved the time I climbed it in January, the snow just the whole trip beautiful.
 At the summit, the view is beautiful. 
-Beginner friendly: Yes, no equipment needed in summer. If climbing in snow, get gloves, hiking poles, and spikes for your shoes.
+
+    __Friendly track__: Yes, no equipment needed in summer. If climbing in snow, get gloves, hiking poles, and spikes for your shoes.
 
 6. __Wank__
 
