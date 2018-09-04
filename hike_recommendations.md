@@ -6,7 +6,7 @@
 
     https://www.komoot.com/tour/45133083
 
-Easy relaxed hike, with a restaurant at the end. One could lie down next to a stream coming from the Zugspitze glacier, nothing was more serene than that for me at the time I did that. 
+    Easy relaxed hike, with a restaurant at the end. One could lie down next to a stream coming from the Zugspitze glacier, nothing was more serene than that for me at the time I did that. 
 
 2. __Eckbauer and Partnachklamm Loop__
 
@@ -46,15 +46,18 @@ Beginner friendly: Yes, no equipment needed in summer. If climbing in snow, get 
 
     I would highly recommend climbing this mountain once you have some experience with snow.
 And, please choose a day when the "Wankbahn" or the cable car is not working (there are a few weeks in winter), because otherwise it's a very crowded mountain. And please start early, the forest ways are beautiful (and empty) early morning, and it progressively gets more crowded as the day progresses.
-Also, the path in the itinerary, is one I would highly recommend. 
-The ascent will be more lonely, and it give you a taste of of heights, feeling a bit "exposed" but not really so much. 
-But the summit cross at Eckenberg is lovely and is a must visit. Worth the trouble. But be careful! If you are not sure, reverse the direction of the hike, and once you get to the summit, come back the way you had gone up. 
-But if you stick to the plan, and come back to the ground through Eckenhutte, you might catch the sunset behind Zugspitze there by the time you get down.
- It's a view that's spectacular, and usually, there's a lot of space to sit and watch it. I would highly recommend this! 
+
+    Also, the path in the itinerary, is one I would highly recommend. 
+
+    The ascent will be more lonely, and it give you a taste of of heights, feeling a bit "exposed" but not really so much. 
+
+    But the summit cross at Eckenberg is lovely and is a must visit. Worth the trouble. But be careful! If you are not sure, reverse the direction of the hike, and once you get to the summit, come back the way you had gone up. 
+
+    But if you stick to the plan, and come back to the ground through Eckenhutte, you might catch the sunset behind Zugspitze there by the time you get down.
+
+    It's a view that's spectacular, and usually, there's a lot of space to sit and watch it. I would highly recommend this! 
 There's a restaurant at the top too.
 How to get there: It's super well connected to Munich, and the trailhead is reachable by foot from the train-station.
-
----
 
 
 
@@ -82,24 +85,25 @@ But do it for the views, they are out of the world. And you get to sit at the po
 3. __Kramerspitz__
 
     https://www.komoot.com/tour/45132546
-I did this hike in summer, and the Stepbergalm is a very good reason to do this hike. 
-But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done.
+    
+    I did this hike in summer, and the Stepbergalm is a very good reason to do this hike. 
+    But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done.
 
-Tags: Scrambling, short exposed sections secured with chains
-Refreshments / Huts: Yes
-
----
+    Tags: Scrambling, short exposed sections secured with chains
+    Refreshments / Huts: Yes
 
 
-[HARD] - More than 6/7 hours of hiking, in order of difficulty
+## Hard hikes - More than 6/7 hours of hiking, in order of difficulty
 
-Herzogstand, to Heimgarten and Ohlstadt
-https://www.komoot.com/tour/45129504
-This is not an easy hike, and it may not be possible in winter. I did this hike in late April, and it's the best time to do this, because there's still snow capped mountains all around you, but the trail is relatively snow-free.
-This is a fantastic hike, and it includes a very long ridge walk. If you don't have a huge fear of heights, you could easily do it.
-But if you have vertigo, I would recommend against it.
-And the planned tour is long, really long. 
-The last part of the tour is by a river, through winding forest roads. 
+1. __Herzogstand, to Heimgarten and Ohlstadt__
+
+    https://www.komoot.com/tour/45129504
+    
+    This is not an easy hike, and it may not be possible in winter. I did this hike in late April, and it's the best time to do this, because there's still snow capped mountains all around you, but the trail is relatively snow-free.
+    This is a fantastic hike, and it includes a very long ridge walk. If you don't have a huge fear of heights, you could easily do it.
+    But if you have vertigo, I would recommend against it.
+    And the planned tour is long, really long. 
+    The last part of the tour is by a river, through winding forest roads. 
 
 Tags: Ridge Walk, Beautiful views, Long hike
 Refreshments / Huts: Yes
