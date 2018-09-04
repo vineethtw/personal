@@ -89,8 +89,9 @@ But do it for the views, they are out of the world. And you get to sit at the po
     I did this hike in summer, and the Stepbergalm is a very good reason to do this hike. 
     But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done.
 
-    Tags: Scrambling, short exposed sections secured with chains
-    Refreshments / Huts: Yes
+    __Tags__: Scrambling, short exposed sections secured with chains
+    __Refreshments / Huts__: Yes
+
 
 
 ## Hard hikes - More than 6/7 hours of hiking, in order of difficulty
@@ -105,29 +106,34 @@ But do it for the views, they are out of the world. And you get to sit at the po
     And the planned tour is long, really long. 
     The last part of the tour is by a river, through winding forest roads. 
 
-Tags: Ridge Walk, Beautiful views, Long hike
-Refreshments / Huts: Yes
+    __Tags__: Ridge Walk, Beautiful views, Long hike
+    __Refreshments / Huts__: Yes
 
-Neuschwanstein from Sauling
-https://www.komoot.com/tour/45133651
-Fantastic hike, can be done during summer. And what better way to end a hike than in the fairy-tale castle! 
+2. __Neuschwanstein from Sauling__
 
-Tags: T3 level Scrambling, nearly vertical rock scrambling, cross-country hiking 
-Refreshments / Huts: Yes 
+    https://www.komoot.com/tour/45133651
+    
+    Fantastic hike, can be done during summer. And what better way to end a hike than in the fairy-tale castle! 
 
-Schöttelkarspitze
-https://www.komoot.com/tour/45134275
-With a mountain that looks like a pyramid, the summit is motivation enough to do this exhausting, tiring hike
+    __Tags__: T3 level Scrambling, nearly vertical rock scrambling, cross-country hiking 
+    __Refreshments / Huts__: Yes 
 
-Tags: Exposed Sections (can be scary), Very long, Fair bit of scrambling
-Refreshments / Huts: Yes 
+3. __Schöttelkarspitze__
+
+    https://www.komoot.com/tour/45134275
+
+    With a mountain that looks like a pyramid, the summit is motivation enough to do this exhausting, tiring hike
+
+    __Tags__: Exposed Sections (can be scary), Very long, Fair bit of scrambling
+    __Refreshments / Huts__: Yes 
 
 
-Groß Arnspitze
-https://www.komoot.com/tour/44781274
+4. __Groß Arnspitze__
 
-Very, very difficult. For me this was a combination of Leonharstein, Kramerspitz and Wank put together in one day. But the view at the top is the only reason to do this. 
-This is not suitable for a first time hike, maybe we should do it only after sufficient experience. It took me around 9 hours to do it, with over 5 hours of ascent time.
+    https://www.komoot.com/tour/44781274
 
-Tags: (Long) Exposed Sections (can be very scary), Need to walk through the side of a mountain at 1800m, Very, very long hike, A lot of scrambling, Descent has a lot of scree.
-Refreshments: No, but there is an unmanned hut near the summit.
+    Very, very difficult. For me this was a combination of Leonharstein, Kramerspitz and Wank put together in one day. But the view at the top is the only reason to do this. 
+    This is not suitable for a first time hike, maybe we should do it only after sufficient experience. It took me around 9 hours to do it, with over 5 hours of ascent time.
+
+    __Tags__: (Long) Exposed Sections (can be very scary), Need to walk through the side of a mountain at 1800m, Very, very long hike, A lot of scrambling, Descent has a lot of scree.
+    __Refreshments__: No, but there is an unmanned hut near the summit.
