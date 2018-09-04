@@ -35,8 +35,8 @@ Beginner friendly: Yes
     https://www.komoot.com/tour/45111126
 
     This was my first mountain that I tried climbing in Germany. It took me three tries to get to the summit, mostly due to inexperience, and getting lost the first time.
-Tip: You will reach a point in the route where you'll have to choose "Winterweg" or "Sommerweg" : my recommendation is to choose the "Winterweg", and look behind you time to time, where you'll be treated to Lake Tegernsee in all her beauty. 
-Time of year: The first time, it was late fall, the second time sometime in November, and the third, sometime in January. I loved the time I climbed it in January, the snow just the whole trip beautiful.
+    __Tip__: You will reach a point in the route where you'll have to choose "Winterweg" or "Sommerweg" : my recommendation is to choose the "Winterweg", and look behind you time to time, where you'll be treated to Lake Tegernsee in all her beauty. 
+    __Time of year__: The first time, it was late fall, the second time sometime in November, and the third, sometime in January. I loved the time I climbed it in January, the snow just the whole trip beautiful.
 At the summit, the view is beautiful. 
 Beginner friendly: Yes, no equipment needed in summer. If climbing in snow, get gloves, hiking poles, and spikes for your shoes.
 
@@ -47,15 +47,15 @@ Beginner friendly: Yes, no equipment needed in summer. If climbing in snow, get 
     I would highly recommend climbing this mountain once you have some experience with snow.
 And, please choose a day when the "Wankbahn" or the cable car is not working (there are a few weeks in winter), because otherwise it's a very crowded mountain. And please start early, the forest ways are beautiful (and empty) early morning, and it progressively gets more crowded as the day progresses.
 
-    Also, the path in the itinerary, is one I would highly recommend. 
+   Also, the path in the itinerary, is one I would highly recommend. 
 
-    The ascent will be more lonely, and it give you a taste of of heights, feeling a bit "exposed" but not really so much. 
+   The ascent will be more lonely, and it give you a taste of of heights, feeling a bit "exposed" but not really so much. 
 
-    But the summit cross at Eckenberg is lovely and is a must visit. Worth the trouble. But be careful! If you are not sure, reverse the direction of the hike, and once you get to the summit, come back the way you had gone up. 
+   But the summit cross at Eckenberg is lovely and is a must visit. Worth the trouble. But be careful! If you are not sure, reverse the direction of the hike, and once you get to the summit, come back the way you had gone up. 
 
-    But if you stick to the plan, and come back to the ground through Eckenhutte, you might catch the sunset behind Zugspitze there by the time you get down.
+   But if you stick to the plan, and come back to the ground through Eckenhutte, you might catch the sunset behind Zugspitze there by the time you get down.
 
-    It's a view that's spectacular, and usually, there's a lot of space to sit and watch it. I would highly recommend this! 
+   It's a view that's spectacular, and usually, there's a lot of space to sit and watch it. I would highly recommend this! 
 There's a restaurant at the top too.
 How to get there: It's super well connected to Munich, and the trailhead is reachable by foot from the train-station.
 
@@ -79,7 +79,8 @@ But do it for the views, they are out of the world. And you get to sit at the po
     
     Long, but beautful during summer. The Tegernseer-hutte sits nuzzled between two mountains, and it's a sight to see.
 
-    __Tags__: Scrambling route available, but there is a longer alternate route. 
+    __Tags__: Scrambling route available, but there is a longer alternate route
+     
     __Refreshments / Huts__: Yes
 
 3. __Kramerspitz__
@@ -90,6 +91,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done.
 
     __Tags__: Scrambling, short exposed sections secured with chains
+    
     __Refreshments / Huts__: Yes
 
 
@@ -107,6 +109,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     The last part of the tour is by a river, through winding forest roads. 
 
     __Tags__: Ridge Walk, Beautiful views, Long hike
+  
     __Refreshments / Huts__: Yes
 
 2. __Neuschwanstein from Sauling__
@@ -116,6 +119,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     Fantastic hike, can be done during summer. And what better way to end a hike than in the fairy-tale castle! 
 
     __Tags__: T3 level Scrambling, nearly vertical rock scrambling, cross-country hiking 
+
     __Refreshments / Huts__: Yes 
 
 3. __Schöttelkarspitze__
@@ -125,7 +129,8 @@ But do it for the views, they are out of the world. And you get to sit at the po
     With a mountain that looks like a pyramid, the summit is motivation enough to do this exhausting, tiring hike
 
     __Tags__: Exposed Sections (can be scary), Very long, Fair bit of scrambling
-    __Refreshments / Huts__: Yes 
+  
+   __Refreshments / Huts__: Yes 
 
 
 4. __Groß Arnspitze__
@@ -136,4 +141,5 @@ But do it for the views, they are out of the world. And you get to sit at the po
     This is not suitable for a first time hike, maybe we should do it only after sufficient experience. It took me around 9 hours to do it, with over 5 hours of ascent time.
 
     __Tags__: (Long) Exposed Sections (can be very scary), Need to walk through the side of a mountain at 1800m, Very, very long hike, A lot of scrambling, Descent has a lot of scree.
+ 
     __Refreshments__: No, but there is an unmanned hut near the summit.
