@@ -73,6 +73,7 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
 But do it for the views, they are out of the world. And you get to sit at the pointy tip of a the mountain.
 
    _Tags_: Scrambling, Exposed Sections near the Summit, Pyramidal Mountain, descent can be dangerous
+   
    _Refreshments / Huts_: No
 
 2. __Roßstein__
@@ -82,6 +83,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     Long, but beautful during summer. The Tegernseer-hutte sits nuzzled between two mountains, and it's a sight to see.
 
     _Tags_: Scrambling route available, but there is a longer alternate route
+    
     _Refreshments / Huts_: Yes
 
 3. __Kramerspitz__
@@ -92,6 +94,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done.
 
     _Tags_: Scrambling, short exposed sections secured with chains
+    
     _Refreshments / Huts_: Yes
 
 
