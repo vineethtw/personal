@@ -28,7 +28,7 @@ At Eckbauer, you could also see King Ludwig II's Hunting Castle and there's a re
     Super easy, and it's an very good mountain to start with. Absolutely no way to get lost, and the view from the summit is beautiful. 
 It's next to Walchensee, if that is a point in it's favor. If you're new to hiking in the snow, you could start here, as it is short and the toughest part comes in only at the very end. 
 
-__Notes__: Kochel is well connected to Munich, but the trains are few and far in between. The start point of the hike, Urfeld, is reachable by public transport (bus) from the Kochel train station. Just make sure you are back down in time to get back to either Kochel or better, Garmisch (the connectivity is better there) 
+    __Notes__: Kochel is well connected to Munich, but the trains are few and far in between. The start point of the hike, Urfeld, is reachable by public transport (bus) from the Kochel train station. Just make sure you are back down in time to get back to either Kochel or better, Garmisch (the connectivity is better there) 
 
 5. __Hirschberg__
 
