@@ -62,6 +62,15 @@ And, please choose a day when the "Wankbahn" or the cable car is not working (th
 There's a restaurant at the top too.
 How to get there: It's super well connected to Munich, and the trailhead is reachable by foot from the train-station.
 
+7. Brecherspitz
+
+   [https://www.komoot.com/tour/51158304]
+   
+   Super easy hike - but the ridge walk between the summit and the pre-summit is the highlight. Not as good as the ridge walk between Herzogstand-Heimgarten ofcourse, but a good one nevertheless. 
+   
+   I did the hike when I woke up late and thought there was no way I was getting through the day without doing a hike.
+   
+   However, a very crowded summit, considering the proximity from Munchen, and also the presence of a "super-easy" ascent from Spitzingzee.
 
 
 ## Medium level hikes - In order of difficulty 
