@@ -62,7 +62,7 @@ And, please choose a day when the "Wankbahn" or the cable car is not working (th
 There's a restaurant at the top too.
 How to get there: It's super well connected to Munich, and the trailhead is reachable by foot from the train-station.
 
-7. Brecherspitz
+7. __Brecherspitz__
 
    [https://www.komoot.com/tour/51158304]
    
