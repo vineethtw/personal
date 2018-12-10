@@ -106,7 +106,10 @@ But do it for the views, they are out of the world. And you get to sit at the po
     _Tags_: Scrambling, short exposed sections secured with chains
     
     _Refreshments / Huts_: Yes
-
+    
+ 4. __Friederspitz__
+ 
+    Long, easy hike - but good views towards the end. 
 
 
 ## Hard hikes - More than 6/7 hours of hiking, in order of difficulty
