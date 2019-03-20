@@ -72,6 +72,10 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
    
    However, a very crowded summit, considering the proximity from Munchen, and also the presence of a "super-easy" ascent from Spitzingzee.
 
+8. __Breitenstein__
+    
+   Another super easy hike, I would advise doing this hike in winter, the view from the summit is lovely at that time of year.
+
 
 ## Medium level hikes - In order of difficulty 
 
@@ -92,7 +96,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     
     Long, but beautful during summer. The Tegernseer-hutte sits nuzzled between two mountains, and it's a sight to see.
 
-    _Tags_: Scrambling route available, but there is a longer alternate route
+    _Tags_: Scrambling route available (take this!!!), but there is a longer alternate route (not that interesting!)
     
     _Refreshments / Huts_: Yes
 
@@ -101,7 +105,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     https://www.komoot.com/tour/45132546
     
     I did this hike in summer, and the Stepbergalm is a very good reason to do this hike. 
-    But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done.
+    But the hike isn't easy, its on the T3 Swiss scale, it was one of the tougher hikes I've done up and until then.
 
     _Tags_: Scrambling, short exposed sections secured with chains
     
@@ -118,7 +122,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
 
     https://www.komoot.com/tour/45129504
     
-    This is not an easy hike, and it may not be possible in winter. I did this hike in late April, and it's the best time to do this, because there's still snow capped mountains all around you, but the trail is relatively snow-free.
+    This is not an easy hike, and ~~it may not be possible in winter~~ (it is! I did it this year). I did this hike in late April, and it's the best time to do this, because there's still snow capped mountains all around you, but the trail is relatively snow-free.
     This is a fantastic hike, and it includes a very long ridge walk. If you don't have a huge fear of heights, you could easily do it.
     But if you have vertigo, I would recommend against it.
     And the planned tour is long, really long. 
