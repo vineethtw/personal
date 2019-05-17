@@ -74,7 +74,13 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
 
 8. __Breitenstein__
     
-   Another super easy hike, I would advise doing this hike in winter, the view from the summit is lovely at that time of year.
+   Another super easy hike, I would advise doing this hike in winter, the view from the summit is lovely at that time of year. There is a small lake nearby on the top - and you must take that route to go down. I really liked it. 
+   
+9. __Tegernsee to Schliersee__ 
+  
+   Not a mountain hike per se, but quite an interesting excursion through silent an beautiful woods. But, quite crowded. 
+   
+   I would recommend doing this hike in Winter. 
 
 
 ## Medium level hikes - In order of difficulty 
@@ -113,7 +119,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
     
  4. __Friederspitz__
  
-    Long, easy hike - but good views towards the end. 
+    Long, easy hike - but good views towards the end. To be honest, this was a long, and quite boring hike - I liked the fact that I had to ascend quite a bit, but there wasn't a lot of things to keep it interesting. 
 
 
 ## Hard hikes - More than 6/7 hours of hiking, in order of difficulty
@@ -122,15 +128,17 @@ But do it for the views, they are out of the world. And you get to sit at the po
 
     https://www.komoot.com/tour/45129504
     
-    This is not an easy hike, and ~~it may not be possible in winter~~ (it is! I did it this year). I did this hike in late April, and it's the best time to do this, because there's still snow capped mountains all around you, but the trail is relatively snow-free.
+    This is not an easy hike, and ~~it may not be possible in winter~~ (it is! I did it in winter 2018). I did this hike first in in late April 2018, and it's the best time to do this, because there's still snow capped mountains all around you, but the trail is relatively snow-free.
     This is a fantastic hike, and it includes a very long ridge walk. If you don't have a huge fear of heights, you could easily do it.
     But if you have vertigo, I would recommend against it.
     And the planned tour is long, really long. 
-    The last part of the tour is by a river, through winding forest roads. 
+    The last part of the tour (enroute to Ohlstadt) is by a river, through winding forest roads. 
 
     _Tags_: Ridge Walk, Beautiful views, Long hike
   
-    _Refreshments / Huts_: Yes
+    _Refreshments / Huts_: Yes (2)
+    
+    I chose the end to be Ohlstadt - because it is much easier for you to get a train back to Munich from there, when compared to Kochel.
 
 2. __Neuschwanstein from Sauling__
 
@@ -148,7 +156,7 @@ But do it for the views, they are out of the world. And you get to sit at the po
 
     With a mountain that looks like a pyramid, the summit is motivation enough to do this exhausting, tiring hike
 
-    _Tags_: Exposed Sections (can be scary), Very long, Fair bit of scrambling
+    _Tags_: Exposed Sections (can be scary a bit), Very long, Fair bit of scrambling here and there.
   
     _Refreshments / Huts_: Yes 
 
@@ -156,10 +164,13 @@ But do it for the views, they are out of the world. And you get to sit at the po
 4. __Groß Arnspitze__
 
     https://www.komoot.com/tour/44781274
+    
+    My favorite! 
 
     Very, very difficult. For me this was a combination of Leonharstein, Kramerspitz and Wank put together in one day. But the view at the top is the only reason to do this. 
+    
     This is not suitable for a first time hike, maybe we should do it only after sufficient experience. It took me around 9 hours to do it, with over 5 hours of ascent time.
 
-    _Tags_: (Long) Exposed Sections (can be very scary), Need to walk through the side of a mountain at 1800m, Very, very long hike, A lot of scrambling, Descent has a lot of scree.
+    _Tags_: (Long) Exposed Sections (can be _very_ scary), Need to walk through the side of a mountain at 1800m, Very, very long hike, A lot of scrambling, Descent has a lot of scree. Make sure you have good footwear.
  
     _Refreshments_: No, but there is an unmanned hut near the summit.
