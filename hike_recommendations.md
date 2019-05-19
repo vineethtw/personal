@@ -81,6 +81,16 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
    Not a mountain hike per se, but quite an interesting excursion through silent an beautiful woods. But, quite crowded. 
    
    I would recommend doing this hike in Winter. 
+   
+10. __Schweinsberg__
+
+    https://www.komoot.com/tour/67736444
+    
+    The route above is intentionally made a bit longer - and I have a reason for it. Starting at Fischbachau, the initial part of the hike is done alongside a tiny river, and through beautiful forested paths (not roads, for most of it). After some ascent, we will come across Kesselalm. 
+    
+    Post that the tour towards Schweinsberg gets more interesting. The views get a lot better, until you hit the beautiful summit. 
+    
+    For the route back, we are going to go through Kirchwand - but - if you're not too comfortable with some really short scrambling, you could go back the same way back to Fischbachau. If you're okay with some scrambling descenting through Kirchwand and onto Geitau presents you one last nice view near Turkenkopfl. But take the bit about scrambling seriously. If you're not a hiker prepared to take a small risk, be safe and go back down to Fischbachau.
 
 
 ## Medium level hikes - In order of difficulty 
