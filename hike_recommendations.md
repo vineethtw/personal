@@ -90,7 +90,11 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
     
     Post that the tour towards Schweinsberg gets more interesting. The views get a lot better, until you hit the beautiful summit. 
     
+    https://www.instagram.com/p/Bxo2xBfC-FY/
+    
     For the route back, we are going to go through Kirchwand - but - if you're not too comfortable with some really short scrambling, you could go back the same way back to Fischbachau. If you're okay with some scrambling descenting through Kirchwand and onto Geitau presents you one last nice view near Turkenkopfl. But take the bit about scrambling seriously. If you're not a hiker prepared to take a small risk, be safe and go back down to Fischbachau.
+    
+    https://www.instagram.com/p/BwzO52dF4Ff/ (enroute descent)
 
 
 ## Medium level hikes - In order of difficulty 
