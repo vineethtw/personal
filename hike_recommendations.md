@@ -95,7 +95,18 @@ How to get there: It's super well connected to Munich, and the trailhead is reac
     For the route back, we are going to go through Kirchwand - but - if you're not too comfortable with some really short scrambling, you could go back the same way back to Fischbachau. If you're okay with some scrambling descenting through Kirchwand and onto Geitau presents you one last nice view near Turkenkopfl. But take the bit about scrambling seriously. If you're not a hiker prepared to take a small risk, be safe and go back down to Fischbachau.
     
     https://www.instagram.com/p/BwzO52dF4Ff/ (enroute descent)
+    
+11. __Geierstein__
 
+    https://www.komoot.com/tour/71547526 
+
+    I would recommend doing the hike in the direction as it is in the map. The ascent is through beautiful and cold forest ways, and the descent has a spot (with a chair and everything, over a hug drop off) with a magnificent view of the Isar valley. The tour is short, but that view of the Isar valley makes up for everything.
+    
+12. __Risserkogel__ 
+
+    https://www.komoot.com/tour/69921555 
+    
+    Although the tour here is not a round-trip - I would advise doing the descent over Setzberg or you could even bypass that mountain to go to Wallberg and descent from there - the reason? Kreuth does not have a lot of bus connections back to Tegernsee. Getting down at Wallberg would make the walk to Tegernsee "doable" if you miss the last bus. (I had to walk back from Kreuth, and it took about 2 hours)
 
 ## Medium level hikes - In order of difficulty 
 
